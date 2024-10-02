@@ -1,0 +1,10 @@
+{
+    "email1":{
+        "password_google" : "123456789",
+        "password_github" : {
+            "password1": "Hello Word",
+            "password2": "test1234"
+        }
+    },
+    "email2": "Hello"
+}
