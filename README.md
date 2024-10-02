@@ -3,7 +3,7 @@
 
 - [About](#About)
 - [Features](#Features)
-- [Setup & Installation](#Setup&Installation)
+- [Setup And Installation](#SetupAndInstallation)
 - [Usage](#Usage)
 - [License](#License)
 
@@ -25,7 +25,7 @@ The program provides an interactive interface for managing sensitive information
 - Import/Export: Import and export data as JSON files.
 - Interactive CLI: Provides a simple menu-driven interface for managing data.
 
-## Setup&Installation
+## SetupAndInstallation
 1. Clone the repository:
 ``` bash
 git clone https://github.com/0xtheghost/Password-Manager.git
